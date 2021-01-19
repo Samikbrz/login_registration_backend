@@ -1,6 +1,6 @@
 package login.registration.backend.appuser;
 
-import org.springframework.stereotype.Repository
+import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 
 import java.util.Optional;
